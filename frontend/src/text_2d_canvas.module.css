@@ -1,0 +1,112 @@
+.upload_logo{
+
+
+    width: 50px;
+    height: 50px;
+
+}
+.choose_position{
+
+
+position: relative;
+
+left: 400px;
+top: 25px;
+}
+
+.front_image{
+
+width: 60px;
+height: 60px;
+position: relative;
+
+bottom: 20px;
+left: 55px;
+
+border: solid black;
+
+}
+.t2d_whole{
+
+    width: 100vw;
+    height: 100vh;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+    overflow: hidden;
+
+
+}
+
+.right_image{
+
+    width: 60px;
+    height: 60px;
+    position: relative;
+    
+    bottom: 20px;
+    left: 35px;
+    
+    border: solid black;
+
+}
+.back_image{
+
+    width: 60px;
+    height: 60px;
+    position: relative;
+    
+    bottom: 20px;
+    right: 5px;
+    
+    border: solid black;
+
+}
+.left_image{
+
+    width: 60px;
+    height: 60px;
+    position: relative;
+    
+    bottom: 20px;
+    right: 40px;
+    
+    border: solid black;
+
+
+}
+.upload_div{
+position: relative;
+top: 80px;
+left: 20px;
+
+}
+.font_right_side{
+
+    position: relative;
+    
+    
+    right: 30px;
+
+
+}
+.font_back_side{
+
+    position: relative;
+    
+    
+    right: 65px;
+
+
+}
+.font_left_side{
+
+    position: relative;
+    
+    
+    right: 100px;
+
+}

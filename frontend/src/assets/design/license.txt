@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fashion Dress
+* source:	https://sketchfab.com/3d-models/fashion-dress-931ced7d97bd4e0d8e2d971776011e3d
+* author:	Praveen (https://sketchfab.com/praveen889zealous)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fashion Dress" (https://sketchfab.com/3d-models/fashion-dress-931ced7d97bd4e0d8e2d971776011e3d) by Praveen (https://sketchfab.com/praveen889zealous) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

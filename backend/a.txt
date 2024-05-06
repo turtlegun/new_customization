@@ -1,0 +1,1 @@
+#MONGO_URL="mongodb+srv://dilus1322:8jH8S1bo2FkeShjd@dress.lg39lgo.mongodb.net/image"

@@ -1,0 +1,13 @@
+{
+  "name": "shopping-customization",
+  "version": "1.0.0",
+  "description": "this is project for dress customization",
+  "main": "index.js",
+  "scripts": {
+    "start:frontend": "cd frontend && npm run build",
+    "start:backend": "cd backend && node index.js",
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\""
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,207 @@
+
+.app{
+
+    width: 100vw;
+    height: 100vh;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+    background-color: rgb(158, 156, 156);
+
+}
+.customization{
+
+    position: fixed;
+    left: 24px;
+    bottom: 15vh;
+    width: 100%;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
+.canvas{
+
+    position: fixed;
+    display: flex;
+    top:25vh;
+    left:24px
+
+}
+.shirt{
+
+   
+    width: 25px;
+    height: 25px;
+    
+    background-color:yellow;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.shirt1{
+
+ 
+    width: 25px;
+    height: 25px;
+    
+    background-color:red;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.shirt2{
+
+    width: 25px;
+    height: 25px;
+    
+    background-color:blue;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.shirt3{
+
+    
+    width: 25px;
+    height: 25px;
+    
+    background-color:green;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.input_file{
+
+    position: fixed;
+    right: 150px;
+    bottom: 10vh;
+    width: 200px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
+.shirt4{
+
+    
+    width: 25px;
+    height: 25px;
+    
+    background-color:purple;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.shirt5{
+
+    
+    width: 25px;
+    height: 25px;
+    
+    background-color:black;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.shirt6{
+
+    
+    width: 25px;
+    height: 25px;
+    
+    background-color:grey;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.shirt7{
+
+    
+    width: 25px;
+    height: 25px;
+    
+    background-color:white;
+    border: none;
+    cursor: pointer;
+    border:1px solid black;
+    margin-right: 10px;
+}
+.upload{
+
+position: fixed;
+display: flex;
+right: 10px;
+
+bottom: 10vh;
+}
+
+.upload_svg{
+
+width: 50px;
+height: 50px;
+
+}
+
+.canvas{
+
+position: relative;
+
+top:50px;
+
+left: 200px;
+
+
+width: 100vw;
+height: 100vh;
+
+
+
+
+}
+.canvas_style{
+
+margin-left: 100px;
+    width: "50vw";
+    height: "50vh"
+
+
+}
+
+.button{
+
+position: relative;
+
+top: 40px;
+left: 1100px;
+
+background-color:  #3CB371;
+color: white;
+border-color:  #3CB371;
+
+}
+
+
+.shirt_color{
+
+color: white;
+
+}
+
+.material_color{
+
+    color: white;
+
+}

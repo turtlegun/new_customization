@@ -1,0 +1,10 @@
+
+.material{
+
+display: flex;
+position: fixed;
+left: 550px;
+bottom: 25vh;
+color: white;
+font-size: larger;
+}

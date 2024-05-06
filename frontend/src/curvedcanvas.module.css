@@ -1,0 +1,23 @@
+.curved_app {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(126, 125, 125);
+  }
+  
+  .curved_app select {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+  }
+
+  .canvas_background{
+
+background-color:white;
+
+margin-left: 100px;
+margin-top: 20px;
+
+  }

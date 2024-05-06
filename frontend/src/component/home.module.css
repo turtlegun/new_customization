@@ -1,0 +1,199 @@
+.top{
+height: 35px;
+background-color: black;
+}
+.top_nav{
+
+font-size:small;
+font-weight: bolder;
+display: flex;
+justify-content:right;
+padding-right: 30px;
+padding-top: 7px;
+
+}
+
+.link{
+
+color: white;
+text-decoration: none;
+
+}
+
+
+.links{
+  color:white;
+  text-decoration: none;
+
+}
+
+.list{
+
+padding-top: 12px;
+margin-left: 12px;
+list-style-type: none;
+margin-right: 50px;
+
+}
+
+.list_container{
+position: relative;
+top: 28px;
+background-color:white;
+width: 200px;
+height: 220px;
+border: 1px solid black;
+border-radius: 5px;
+}
+
+.list li{
+
+color: black;
+font-size: 15px;
+padding-bottom: 5px;
+font-weight: bolder;
+
+}
+
+
+
+.list_link1{
+
+  text-decoration: none;
+
+}
+.list_link2{
+
+  text-decoration: none;
+
+}
+
+.list_link3{
+
+  text-decoration: none;
+
+}
+
+.list_link4{
+
+  text-decoration: none;
+
+}
+
+
+
+.product_nav {
+
+  display: flex;
+  justify-content: center;
+
+  
+
+}
+
+.men{
+
+  text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: black;
+
+}
+.women{
+
+  text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: black;
+
+}
+.kid{
+
+  text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: black;
+
+}
+
+.sports{
+  font-size: 20px;
+  text-decoration: none;
+  padding: 20px;
+  color: black;
+
+
+}
+.brand{
+
+  text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+  color: black;
+}
+
+.search{
+
+width: 175px;
+height: 20px;
+
+margin-top: 20px;
+margin-left: 10px;
+
+background-color: rgb(230, 230, 230);
+border-radius: 3px;
+
+}
+
+.quotes{
+
+background-color: rgb(230, 230, 230);
+
+height: 60px;
+
+display: flex;
+
+justify-content: center;
+
+
+
+}
+
+.quote{
+
+font-weight: bolder;
+
+}
+.image_search{
+
+height: 20px;
+width: 20px;
+margin-top: 20px;
+margin-left: 5px;
+
+}
+.canvas{
+
+height: 1000vh;
+position: relative;
+top: 100px;
+
+}
+.header_2{
+
+color: black;
+text-align: center;
+
+
+}
+
+.men_container{
+
+width: 2000px;
+height: 200vh;
+background-color: white;
+
+}

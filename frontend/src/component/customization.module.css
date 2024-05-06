@@ -1,0 +1,12 @@
+.customization{
+
+    position: fixed;
+    right: 24px;
+    bottom: 25vh;
+    width: 360px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
